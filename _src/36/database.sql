@@ -1,0 +1,1 @@
+INSERT INTO configuration (configuration_title, configuration_key, configuration_value, configuration_description, configuration_group_id, sort_order, date_added) VALUES ('Search Results Catalog', 'MAX_DISPLAY_SEARCH_RESULTS_CATALOG', '20', 'Amount of products to list in catalog', '3', '2', now());

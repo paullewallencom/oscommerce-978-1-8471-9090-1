@@ -1,0 +1,1 @@
+INSERT INTO configuration (configuration_title, configuration_key, configuration_value, configuration_description, configuration_group_id, sort_order, date_added) VALUES ('Showroom Top Category ID', 'SHOWROOM_TOPCAT_ID', '-1', 'Specify the top category id for your showroom', '8', '20', now());
